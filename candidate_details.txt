@@ -1,0 +1,11 @@
+Full Name: M. PRIYADHARSHINI
+Register Number: 921023104029
+College Name: Nadar Saraswathi College of Engineering and Technology
+Department: Computer Science and Engineering (CSE)
+Year of Study: IV Year
+Expected Graduation Year: 2027
+Mobile Number: 8610002860
+Email Address: mpriyadharshinim155@gmail.com
+Task Chosen: Task 2 – AI-Powered Document Intelligence Platform
+Github link:
+live demo https://aipoweredd.vercel.app
